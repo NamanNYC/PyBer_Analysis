@@ -4,10 +4,13 @@ The purpose of this particular analysis is to acknowledge and bring attention to
 ## Results
 ### 1st image
 From the following attached image, we can infer that as we read the data starting from Rural cities to Urban, the Total Rides, Total Drivers and Total Fares increase, with Rural having the least amount of Total Rides, Total Drivers, and Total Fares and Urban having the most amount. Moving along to Average Fare Per Ride and Average Fare Per Driver, we can infer the opposite occurring. The Rural cities see the highest average fare per ride and average fare per driver, whereas the Urban cities see the lowest averages for both Average Fare Per Ride and Average Fare Per Driver.
+
 <img width="758" alt="Screen Shot 2021-05-27 at 12 11 41 PM" src="https://user-images.githubusercontent.com/82340766/119862367-6b7c5d00-bee6-11eb-9280-d32ec62de94e.png">
 
 ### 2nd image
-We can see from the following attached image that in the span of 9 weeks, the Rural city type has consistently seen a relatively lower sum of fares for each week, while the Urban city type has a relatively higher sum of fares for each week. <img width="292" alt="Screen Shot 2021-05-27 at 12 11 11 PM" src="https://user-images.githubusercontent.com/82340766/119862336-61f2f500-bee6-11eb-8e54-a76dc7352c71.png">
+We can see from the following attached image that in the span of 9 weeks, the Rural city type has consistently seen a relatively lower sum of fares for each week, while the Urban city type has a relatively higher sum of fares for each week. 
+
+<img width="292" alt="Screen Shot 2021-05-27 at 12 11 11 PM" src="https://user-images.githubusercontent.com/82340766/119862336-61f2f500-bee6-11eb-8e54-a76dc7352c71.png">
 
 ## Summary
 ### First Business Recommendation
